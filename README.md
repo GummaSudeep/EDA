@@ -7,4 +7,4 @@
 
 
 
-_ _ Tools: Numpy,Pandas,Seaborn and Matplotlib
+_ _Tools: Numpy,Pandas,Seaborn and Matplotlib
