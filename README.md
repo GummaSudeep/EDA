@@ -7,4 +7,4 @@
 
 
 
-** Tools: Pandas, Folium, Seaborn and Matplotlib
+* *Tools: Numpy,Pandas,Seaborn and Matplotlib
